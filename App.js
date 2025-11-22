@@ -28,7 +28,7 @@ export default function App() {
       <Text style={styles.header}>Olympia Santaguida-Antunes</Text>
       <Text style={styles.studentId}>Student ID: 101469745</Text>
 
-      {/* text Input */}
+      {/* text input */}
       <TextInput
         style={styles.input}
         placeholder="Enter text here..."
