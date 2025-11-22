@@ -37,7 +37,7 @@ export default function App() {
         onFocus={handleFocus}
       />
 
-      {/* clear Button */}
+      {/* clear button */}
       <Button title="Clear" onPress={handleClear} />
 
       {/* display text */}
